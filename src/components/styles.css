@@ -68,7 +68,10 @@
   .dont-have-an-account-container {
     display: flex;
     justify-content: space-between;
-   
+  }
+  .dont-have-an-account-container p {
+    color: #413e3e;
+    font-size: 13px;
   }
 
   @media screen (min-width: 1024px) {
