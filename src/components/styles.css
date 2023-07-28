@@ -4,6 +4,9 @@
     justify-content: center;
     padding: 5rem 0;
   }
+  .header {
+    text-align: center;
+  }
   .header p {
     color: #ccc;
     margin: 0.5rem 0;
