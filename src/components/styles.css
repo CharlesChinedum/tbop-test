@@ -49,6 +49,10 @@
     flex-direction: row;
     justify-content: flex-start;
   }
+  .remember span {
+    font-size: 12px
+  }
+
   .buttons {
     width: 100%;
     display: flex;

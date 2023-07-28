@@ -29,7 +29,9 @@ const Login = () => {
                             <span>Remember me</span>
                         </div>
 
-                        <a href="/forgot-password">Forgot password?</a>
+                        <div className="forgot-password-container">
+                            <a href="/forgot-password">Forgot password?</a>
+                        </div>
                     </div>
                     <div className='buttons'>
                         <button type="submit">Sign in</button> <br />
